@@ -64,5 +64,14 @@ a{
     margin-right: 8px;
   }
   
+  .btn {
+    background-color: #cea788;
+    border-color: #ceb199;
+    color: white;
+  }
 
-
+  .btn:hover {
+    background-color: #8b6e56;
+    border-color: #775c45;
+    color: white;
+  }
